@@ -1,6 +1,6 @@
 # DS1M - B
 
-# Headphone Purple Razer Kraken
+# Campo De Concentrção De Aushwitz.
 
 ![](SCREENSHOT.PNG)
 
@@ -10,8 +10,8 @@
 
 ## Sobre
 Site do tipo landing page para 
-divulgar o headphone Razer Kraken
-Purple.
+divulgar um pouco sobre o campo
+de concentração de Auschwitz.
 O objetivo deste projeto é colocar
 em prática os conhecimentos, sobre
 desenvolvimento de sites, adquiridos
@@ -23,32 +23,13 @@ no curso do SENAI Jandira.
 - HTML5
 -CSS3
 -Responsividade
--Markdown
+-JavaScript
 
 ---
 ## Autor
 - Stephany Ribeiro
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 [X]Prototipou o site utilizando o Figma?
@@ -85,9 +66,9 @@ no curso do SENAI Jandira.
 
  [X]As seções estão organizadas seguindo algum objetivo?
 
- []O arquivo README descreve o projeto?
+ [X]O arquivo README descreve o projeto?
 
- []O texto do README é objetivo e sucinto?
+ [X]O texto do README é objetivo e sucinto?
 
  []O screenshot mostra um pouco do projeto?
 
@@ -95,7 +76,7 @@ no curso do SENAI Jandira.
 
  []Existe um link para o github page no README?
 
- []Existe um link do autor do projeto no README?
+ [X]Existe um link do autor do projeto no README?
 
  [X]Fez a autoavaliação?
 
